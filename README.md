@@ -40,4 +40,4 @@ To run the game, you need to have Python and Pygame installed on your system.
 This game was created by [Soumik Deb Niloy].
 
 # Interface: 
-![Example Image](CaD.png)
+![Example Image](Fighter_plane.png)
